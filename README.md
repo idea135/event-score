@@ -7,6 +7,8 @@
 
 **Create three variations on an original "event score” in the style of the Fluxus artists.**
 
+<https://idea135.github.io/event-score/>
+
 ## Rules
 
 Title your score. Use the same title for all variations.
